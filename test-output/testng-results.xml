@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="399360" started-at="2021-08-27T09:50:13 SGT" finished-at="2021-08-27T09:56:52 SGT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="399360" started-at="2021-08-27T09:50:13 SGT" finished-at="2021-08-27T09:56:52 SGT">
+      <class name="Testing.RegressionPack">
+        <test-method status="PASS" signature="OnStart()[pri:0, instance:Testing.RegressionPack@4d339552]" name="OnStart" is-config="true" duration-ms="12379" started-at="2021-08-27T09:50:13 SGT" finished-at="2021-08-27T09:50:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnStart -->
+        <test-method status="PASS" signature="BeforeStart()[pri:0, instance:Testing.RegressionPack@4d339552]" name="BeforeStart" is-config="true" duration-ms="56" started-at="2021-08-27T09:50:25 SGT" finished-at="2021-08-27T09:50:25 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeStart -->
+        <test-method status="PASS" signature="EditProfile()[pri:7, instance:Testing.RegressionPack@4d339552]" name="EditProfile" duration-ms="159862" started-at="2021-08-27T09:50:25 SGT" finished-at="2021-08-27T09:53:05 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProfile -->
+        <test-method status="PASS" signature="RestartApp()[pri:0, instance:Testing.RegressionPack@4d339552]" name="RestartApp" is-config="true" duration-ms="6626" started-at="2021-08-27T09:53:05 SGT" finished-at="2021-08-27T09:53:12 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestartApp -->
+        <test-method status="PASS" signature="BeforeStart()[pri:0, instance:Testing.RegressionPack@4d339552]" name="BeforeStart" is-config="true" duration-ms="11" started-at="2021-08-27T09:53:12 SGT" finished-at="2021-08-27T09:53:12 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeStart -->
+        <test-method status="PASS" signature="PinModication()[pri:8, instance:Testing.RegressionPack@4d339552]" name="PinModication" duration-ms="202176" started-at="2021-08-27T09:53:12 SGT" finished-at="2021-08-27T09:56:34 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PinModication -->
+        <test-method status="PASS" signature="RestartApp()[pri:0, instance:Testing.RegressionPack@4d339552]" name="RestartApp" is-config="true" duration-ms="6577" started-at="2021-08-27T09:56:34 SGT" finished-at="2021-08-27T09:56:41 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestartApp -->
+        <test-method status="PASS" signature="OnFinished()[pri:0, instance:Testing.RegressionPack@4d339552]" name="OnFinished" is-config="true" duration-ms="11554" started-at="2021-08-27T09:56:41 SGT" finished-at="2021-08-27T09:56:52 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OnFinished -->
+      </class> <!-- Testing.RegressionPack -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
